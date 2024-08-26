@@ -1,10 +1,11 @@
 - 👋 Hello There
-- 👀 I’m currently working on many Data Science Projects.
-- 🌱 I’m currently self-learning Data science
+- 👀 I’m currently working as a Senior Software Engineer.
+- 🌱 I’m currently self-learning in a Software Field.
 - 💞️ I’m looking to collaborate with another fresher to work on End to End Project.
-- 📫 Ask me about anything realted to data science will try to best to answer.
--  Fun fact:- I am Completed my Graduation in B.Tech Mechanical engineering but currently working as Data Scientist.
--  For any project you send me request:-aayush.vohra25121996@gmail.com
+- 📫 Ask me about anything related to Software Engineer will try to best to answer.
+-  Fun fact:- I have Completed my Graduation in B.Tech Mechanical engineering but currently working as a Senior Software Engineer.
+-  Where I work on the Skills: **HTML, CSS, JS, Manual Testing, Automation Testing, Performance Testing, BitBucket, Jira.**
+-  For any project, you send me a request:-aayush.vohra25121996@gmail.com
 -  for any freelancing project you can contact Dm me:-aayushvohra2512@gmail.com
 
 <!---
