@@ -1,55 +1,63 @@
-# 👋 Hello there, I'm Aayush Vohra
+# 👋 Hello, I'm Aayush Vohra
 
-🔧 **Currently:** Senior Software Engineer  
-📍 **Domain Expertise:** QA Automation | Performance Testing | Agile QA | Generative AI in QA
-
----
-
-## 🚀 About Me
-
-I'm a passionate QA Engineer with **3.5+ years** of experience in **Automation, Performance, and Functional Testing**, working in Agile teams across the **Banking & Insurance domain**.
-
-Although I graduated in **Mechanical Engineering (B.Tech)**, my passion led me into the software world — and I’ve been thriving here since!
+🎯 **QA Engineer | SDET | Automation • API • Performance Testing | GenAI-driven QA**
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧑‍💻 About Me
 
-- **Languages & Frontend:** HTML, CSS, JavaScript  
-- **Testing Tools:** Selenium, Postman, JMeter, LoadRunner, Dynatrace, Playwright  
-- **Other Tools:** Bitbucket, JIRA, Git  
-- **Testing Types:** Manual Testing, Automation Testing, Performance Testing, Resilience Testing  
-- **New Interests:** Exploring **Generative AI in QA** to automate test design, bug reports, and coverage planning.
+I'm a QA Engineer with **3.5+ years** of experience in Automation, API, and Performance Testing.  
+Currently working as a **Senior Software Engineer** and helping teams deliver robust, high-quality software across **Banking & Insurance domains**.
 
----
-
-## 🌱 Currently Learning
-
-- Generative AI for Test Automation  
-- Advanced CI/CD integration for test pipelines  
-- Cross-browser & mobile test strategies using Playwright
+Though I started out with a degree in **Mechanical Engineering**, my journey into software has been driven by passion and continuous learning.
 
 ---
 
-## 💬 Let's Collaborate!
+## 🔧 Core Skills & Tools
 
-🤝 I'm open to collaborating with **freshers, early professionals**, or anyone interested in building **end-to-end QA projects.**  
-Feel free to reach out for collab ideas, mini projects, or testing frameworks.
+- **Automation:** Selenium, Playwright, Appium, TestNG  
+- **API Testing:** Postman, REST API, Newman  
+- **Performance Testing:** LoadRunner, JMeter, NeoLoad  
+- **Monitoring & Analysis:** Dynatrace  
+- **Version Control & CI/CD:** Git, Bitbucket, Jenkins  
+- **Project Management:** JIRA, Agile Methodologies  
+- **Languages & Scripting:** Java, HTML, JavaScript, SQL  
+- **Exploring:** GenAI in QA Automation (test case generation, reporting, impact analysis)
+
+---
+
+## 📂 Projects
+
+Check out my repositories on:
+- [QA Automation using Selenium & TestNG](https://github.com/aayushvohra/qa-automation-selenium-testng)
+- [Postman API Testing Collection](https://github.com/aayushvohra)
+- [JMeter Performance Testing Setup](https://github.com/aayushvohra)
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 **Project inquiries:** aayush.vohra25121996@gmail.com  
-- 💼 **Freelance / DM:** aayushvohra2512@gmail.com  
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/aayush-vohra)
+- 📧 aayush.vohra25121996@gmail.com  
+- 📧 aayushvohra2512@gmail.com *(for freelance inquiries)*  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aayush-vohra)
 
 ---
 
-## 🤓 Fun Fact
+## 🌱 Currently Learning
 
-I may have started my academic career in mechanical engineering, but now I'm fully immersed in the world of **software quality and automation** — and loving every bit of it!
+- Using **Generative AI** for test optimization
+- CI/CD integration with Jenkins & GitHub Actions
+- Mobile testing automation with Appium
 
 ---
 
-⭐️ _Thanks for visiting my GitHub! Let's build something meaningful and robust together._
+## 🙌 Let’s Collaborate
+
+I’m open to collaboration on:
+- End-to-end QA projects
+- Test automation framework building
+- Exploring GenAI in testing
+
+---
+
+⭐ *Thanks for visiting! Let’s break bugs and build quality software together.*
