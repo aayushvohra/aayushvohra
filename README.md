@@ -29,9 +29,8 @@ Though I started out with a degree in **Mechanical Engineering**, my journey int
 ## 📂 Projects
 
 Check out my repositories on:
-- [QA Automation using Selenium & TestNG](https://github.com/aayushvohra/qa-automation-selenium-testng)
-- [Postman API Testing Collection](https://github.com/aayushvohra)
-- [JMeter Performance Testing Setup](https://github.com/aayushvohra)
+- [QA Automation using Selenium & TestNG](https://github.com/aayushvohra/selenium-testng-framework)
+- [performance-testing-jmeter](https://github.com/aayushvohra/performance-testing-jmeter)
 
 ---
 
